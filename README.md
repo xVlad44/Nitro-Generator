@@ -1,2 +1,2 @@
 # Nitro-Generator
-[Follow this wideo to set it up]()
+[Follow this video to set it up](https://youtu.be/6E_hjAAHG_k)
